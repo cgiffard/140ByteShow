@@ -6,6 +6,8 @@ Because I was challenged to write one. (By @alexdickson, that mischief-maker!)
 
 **[See it in Action!](http://rawgithub.com/cgiffard/140ByteShow/master/index.html)**
 
+Backspace advances the slides, any other key returns to the previous slide.
+
 ### Rules
 
 The 140 byte limit is just for the JS.
@@ -19,7 +21,12 @@ conference, nobody must know (unless you tell them, of course.)
 *	**FIXED!** ~~Doesn't set a slide on load. This means you have to put the first slide class
 	in the html tag. Not a big deal, but if it can be somehow incorporated, that'd
 	be awesome.~~
-	
+
+### Contributors
+
+* [Ben Smithett](https://github.com/bensmithett)
+* [Tom Gilligan](https://github.com/sargegoodweather)
+
 ### In all seriousness
 
 Slideshow frameworks are too big. If you want a marginally more practical, (but
