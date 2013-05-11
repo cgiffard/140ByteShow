@@ -1,8 +1,8 @@
 140ByteShow
 ===========
 
-A JS slideshow/slide-deck framework in 140 bytes. To prove a point. Because I was
-challenged to write one. (By @alexdickson, that mischief-maker!)
+A JS slideshow/slide-deck framework in <140 bytes. (Currently 138.) To prove a point.
+Because I was challenged to write one. (By @alexdickson, that mischief-maker!)
 
 **[See it in Action!](http://rawgithub.com/cgiffard/140ByteShow/master/index.html)**
 
@@ -16,9 +16,9 @@ conference, nobody must know (unless you tell them, of course.)
 
 ### Known issues
 
-*	<s>Doesn't set a slide on load. This means you have to put the first slide class
+*	**FIXED!** ~~Doesn't set a slide on load. This means you have to put the first slide class
 	in the html tag. Not a big deal, but if it can be somehow incorporated, that'd
-	be awesome.</s>
+	be awesome.~~
 	
 ### In all seriousness
 
