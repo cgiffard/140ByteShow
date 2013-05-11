@@ -34,18 +34,10 @@ g {
 #s2 g:nth-child(3) { opacity: 1; }
 #s3 g:nth-child(4) { opacity: 1; }
 
-#s0 {
-	background-color: #5577FF;
-}
-#s1 {
-	background-color: green;
-}
-#s2 {
-	background-color: red;
-}
-#s3 {
-	background-color: goldenrod;
-}
+#s0 { background-color: #5577FF;	}
+#s1 { background-color: green;		}
+#s2 { background-color: red;		}
+#s3 { background-color: goldenrod;	}
 
 h1 {
 	line-height: 100vh;
