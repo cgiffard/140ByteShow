@@ -4,6 +4,8 @@
 A JS slideshow/slide-deck framework in 140 bytes. To prove a point. Because I was
 challenged to write one. (By @alexdickson, that mischief-maker!)
 
+**[See it in Action!](http://rawgithub.com/cgiffard/140ByteShow/master/index.html)**
+
 ### Rules
 
 The 140 byte limit is just for the JS.
