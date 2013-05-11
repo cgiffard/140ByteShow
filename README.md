@@ -16,9 +16,9 @@ conference, nobody must know (unless you tell them, of course.)
 
 ### Known issues
 
-*	Doesn't set a slide on load. This means you have to put the first slide class
+*	<s>Doesn't set a slide on load. This means you have to put the first slide class
 	in the html tag. Not a big deal, but if it can be somehow incorporated, that'd
-	be awesome.
+	be awesome.</s>
 	
 ### In all seriousness
 
