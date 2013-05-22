@@ -6,7 +6,7 @@ Because I was challenged to write one. (By @alexdickson, that mischief-maker!)
 
 **[See it in Action!](http://rawgithub.com/cgiffard/140ByteShow/master/index.html)**
 
-Backspace advances the slides, any other key returns to the previous slide.
+Tab advances the slides, any other key returns to the previous slide.
 
 ### Rules
 
