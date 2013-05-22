@@ -1,7 +1,7 @@
 140ByteShow
 ===========
 
-A JS slideshow/slide-deck framework in <140 bytes. (Currently 113.) To prove a point.
+A JS slideshow/slide-deck framework in <140 bytes. (Currently 114.) To prove a point.
 Because I was challenged to write one. (By @alexdickson, that mischief-maker!)
 
 **[See it in Action!](http://rawgithub.com/cgiffard/140ByteShow/master/index.html)**
@@ -26,6 +26,7 @@ conference, nobody must know (unless you tell them, of course.)
 
 * [Ben Smithett](https://github.com/bensmithett)
 * [Tom Gilligan](https://github.com/sargegoodweather)
+* [Mark Dalgleish](https://github.com/markdalgleish)
 
 ### In all seriousness
 
