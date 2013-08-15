@@ -1,12 +1,12 @@
 140ByteShow
 ===========
 
-A JS slideshow/slide-deck framework in <140 bytes. (Currently 112.) To prove a point.
+A JS slideshow/slide-deck framework in <140 bytes. (Currently 110.) To prove a point.
 Because I was challenged to write one. (By @alexdickson, that mischief-maker!)
 
 **[See it in Action!](http://rawgithub.com/cgiffard/140ByteShow/master/index.html)**
 
-Tab advances the slides, any other key returns to the previous slide.
+Right arrow advances the slides, any other key returns to the previous slide.
 
 ### Rules
 
